@@ -1,6 +1,6 @@
 # Quick AI | Integrate Intelligence
 
-![Quick AI Logo](https://raw.githubusercontent.com/Quick-AI-LLC/docs/main/QAI_logo_transparent_svg.svg)
+<img src="https://raw.githubusercontent.com/Quick-AI-LLC/docs/main/QAI_logo_transparent_svg.svg?sanitize=true" alt="Quick AI Logo" width="400">
 
 **Custom AI systems, agentic integrations, and x402-powered Agentic Service Offerings (ASOs) for small business operations.**
 
