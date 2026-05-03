@@ -1,11 +1,13 @@
 # Quick AI | Integrate Intelligence
 
+![Quick AI Logo](https://raw.githubusercontent.com/Quick-AI-LLC/docs/main/QAI_logo_transparent_svg.svg)
+
 **Custom AI systems, agentic integrations, and x402-powered Agentic Service Offerings (ASOs) for small business operations.**
 
 We deliver practical intelligence that helps Inland Northwest businesses outpace competitors, reclaim time, and grow profitability. Now expanding into the agentic economy with services AI agents can discover, pay for autonomously via stablecoin micropayments (x402 protocol), and consume instantly.
 
 ## Our First Production x402 ASO
-**Quick Signal TA v3.0.0** – Live and indexed on the Agentic Market Bazaar.
+**Quick Signal TA v3.0.0** – Live and indexed on the Agentic Market Bazaar at agentic.market.
 
 Real-time technical analysis that trading and agentic systems can call directly:
 - 10+ indicators (Bollinger Bands, SMA/EMA, RSI, MACD, VWMA, Stochastic, Fractals, ATR, Volume, and more)
@@ -32,7 +34,7 @@ Everything stays inside your existing tools and security model. We handle the he
 - Schedule a free consultation: https://quickai.build
 - Email: Nick@quickai.build
 - Call/Text: 208.682.5989
-- Follow real-time updates: @CDAQAI on X / FB / YT
+- Follow real-time updates: @CDAQAI on X
 
 Built for the Inland Northwest (Coeur d’Alene, Post Falls, Spokane, and surrounding areas) with remote and on-site options available.
 
