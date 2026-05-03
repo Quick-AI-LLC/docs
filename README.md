@@ -1,7 +1,5 @@
 # Quick AI | Integrate Intelligence
 
-<img src="https://raw.githubusercontent.com/Quick-AI-LLC/docs/main/QAI_logo_transparent_svg.svg?sanitize=true" alt="Quick AI Logo" width="400">
-
 **Custom AI systems, agentic integrations, and x402-powered Agentic Service Offerings (ASOs) for small business operations.**
 
 We deliver practical intelligence that helps Inland Northwest businesses outpace competitors, reclaim time, and grow profitability. Now expanding into the agentic economy with services AI agents can discover, pay for autonomously via stablecoin micropayments (x402 protocol), and consume instantly.
