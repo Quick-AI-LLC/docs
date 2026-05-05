@@ -1,5 +1,5 @@
 # Hire: Chief Technology Officer (CTO) - Quick AI
-#Date of Posting: May 4, 2026
+**Date of Posting**: May 4, 2026
 
 **Title**: Chief Technology Officer (CTO)  
 **Reports to**: VP Hermes / CEO Nick  
