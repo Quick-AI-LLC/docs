@@ -25,7 +25,7 @@ All Quick AI agent services use the same payment and discovery patterns. This pa
    → Facilitator verifies
    → Route handler executes
    → Facilitator settles USDC to PAY_TO_ADDRESS
-   → `x402-payment-ref` and related headers on success (where applicable)
+   → Payment-Response header on success (where applicable)
 ```
 
 ## Pricing summary

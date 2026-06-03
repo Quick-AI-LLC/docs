@@ -48,7 +48,7 @@
 
 | Field | Type | Description |
 |-------|------|-------------|
-|| `addresses` | string[] | 1–100 addresses; ordered route; first FAIL determines route verdict |
+| `addresses` | string[] | 1–100 addresses; ordered route; stops at first FAIL |
 
 ## Response (single check)
 

@@ -2,11 +2,11 @@
 
 Quick AI operates three paid HTTP APIs on **Base mainnet** (`eip155:8453`), settled in **USDC** via the Coinbase **CDP x402** facilitator. Agents discover and pay through standard **x402 v2** flows (for example `awal` or the CDP SDK) and **Bazaar** discovery metadata for marketplaces such as [agentic.market](https://agentic.market).
 
-|| Service | URL | Role | Price range |
-||---------|-----|------|-------------|
-|| **Eagle Eye** | https://eagle.quickai.build | U.S. sanctions + USDC blacklist screening | $0.005–$0.50 |
-|| **Quick Signal TA** | https://signal.quickai.build | Crypto technical analysis (10 indicators) | $0.05 |
-|| **Quick ZK Auth** | https://zk.quickai.build | Wallet ownership (ZK) + USDC qualification | $0.05 |
+| Service | URL | Role |
+|---------|-----|------|
+| **Eagle Eye** | https://eagle.quickai.build | U.S. sanctions + USDC blacklist screening |
+| **Quick Signal TA** | https://signal.quickai.build | Crypto technical analysis (10 indicators) |
+| **Quick ZK Auth** | https://zk.quickai.build | Wallet ownership (ZK) + USDC qualification |
 
 ## Shared stack
 
