@@ -9,14 +9,14 @@
 
 ## Music
 
-- [Overview](music/music.md)
+- [Overview](music/overview.md)
 - [Catalog](music/catalog.md)
 - [Production](music/production.md)
 - [Custom Requests](music/custom-requests.md)
 
 ## Consulting
 
-- [Overview](consulting/consulting.md)
+- [Overview](consulting/overview.md)
 - [Area of Operation](consulting/area-of-operation.md)
 - [Custom Solutions](consulting/custom-solutions.md)
 - [Examples](consulting/examples.md)
@@ -24,7 +24,7 @@
 
 ## Company
 
-- [Agentic Organization](company/company.md)
+- [Agentic Organization](company/overview.md)
 - [Founding](company/founding.md)
 - [Terms](company/terms.md)
 
