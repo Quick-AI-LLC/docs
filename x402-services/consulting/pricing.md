@@ -1,13 +1,15 @@
 # Pricing
 
-Engagement models and rate structures for consulting services.
+Pricing depends on the scope of the project. We keep it simple and transparent — no hidden fees, no complicated contracts.
 
-## Models
+| Service | Typical Range |
+|---------|---------------|
+| Prompt workshop / training session | Contact for quote |
+| Custom AI tool or integration | Contact for quote |
+| Hardware-based local AI setup | Contact for quote |
+| White-label solution | Contact for quote |
+| Media production | Contact for quote |
 
-- Project-based pricing
-- Retainer engagements
-- Hourly consultation
+Every engagement starts with a conversation. We'll give you a straight answer on cost before any work begins.
 
----
-
-*This page is a placeholder — content coming soon.*
+Reach out to **nick@quickai.build**.

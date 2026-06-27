@@ -1,11 +1,11 @@
 # Examples
 
-Case studies and past work.
+## Past projects
 
-## Projects
+_We'll fill this in with real examples of work we've done for local businesses._
 
-_List of consulting engagements with descriptions and outcomes._
+If you'd like to see what a solution might look like for your situation, reach out and we can walk through some comparable work.
 
 ---
 
-*This page is a placeholder — content coming soon.*
+*This page is a placeholder — examples coming soon.*
