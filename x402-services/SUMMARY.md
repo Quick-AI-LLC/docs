@@ -26,6 +26,7 @@
 
 - [Agentic Organization](company/overview.md)
 - [Founding](company/founding.md)
+- [Links](company/links.md)
 - [Terms](company/terms.md)
 
 ## Guides
