@@ -16,12 +16,6 @@ Full discography for **Nick Quick**. All releases available on major streaming p
 
 **Total: 7 albums · 97 tracks**
 
-## Singles
-
-| Single | Year | Notes |
-|--------|------|-------|
-| Mek Te Avel Chi Gloria (feat. Nick Quick) | 2025 | Feature credit |
-
 ## Keeping this page current
 
 New releases should be added here as they go live. This page is the single source of truth for agents and humans browsing the docs — keeping it updated means every discovery path stays accurate.

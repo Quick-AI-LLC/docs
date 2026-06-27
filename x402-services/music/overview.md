@@ -20,4 +20,3 @@ Tracks are available on all major streaming platforms:
 - [Apple Music](https://music.apple.com/us/artist/nick-quick/1892929045)
 - [Amazon Music](https://music.amazon.com/artists/B075H7Q29X/nick-quick)
 - [YouTube](https://www.youtube.com/@CDAQAI)
-- [SoundCloud](https://soundcloud.com/nickquick)
