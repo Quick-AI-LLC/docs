@@ -1,4 +1,4 @@
-# Quick AI — x402 Agent Services
+# Quick AI Docs
 
 ## Services
 
@@ -6,6 +6,27 @@
 - [Quick ZK Auth](quick-zk-auth.md)
 - [Eagle Eye](eagle-eye.md)
 - [Quick Signal TA](quick-signal-ta.md)
+
+## Music
+
+- [Overview](music/README.md)
+- [Catalog](music/catalog.md)
+- [Production](music/production.md)
+- [Custom Requests](music/custom-requests.md)
+
+## Consulting
+
+- [Overview](consulting/README.md)
+- [Area of Operation](consulting/area-of-operation.md)
+- [Custom Solutions](consulting/custom-solutions.md)
+- [Examples](consulting/examples.md)
+- [Pricing](consulting/pricing.md)
+
+## Company
+
+- [Agentic Organization](company/README.md)
+- [Founding](company/founding.md)
+- [Terms](company/terms.md)
 
 ## Guides
 

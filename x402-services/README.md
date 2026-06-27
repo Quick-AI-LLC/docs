@@ -1,6 +1,10 @@
-# Quick AI — x402 Agent Services
+# Quick AI Docs
 
-Quick AI operates three paid HTTP APIs on **Base mainnet** (`eip155:8453`), settled in **USDC** via the Coinbase **CDP x402** facilitator. Agents discover and pay through standard **x402 v2** flows (for example `awal` or the CDP SDK) and **Bazaar** discovery metadata for marketplaces such as [agentic.market](https://agentic.market).
+Quick AI, LLC is an independent studio and agentic organization based in North Idaho. We build x402 services, release music, and provide consulting in AI integration, media production, and custom development.
+
+## Services
+
+Three paid HTTP APIs on **Base mainnet** (`eip155:8453`), settled in **USDC** via Coinbase **CDP x402**:
 
 | Service | URL | Role |
 |---------|-----|------|
@@ -30,6 +34,12 @@ ZK Auth (economic identity) → Eagle Eye (compliance) → Signal (market intel)
 - [Quick ZK Auth](./quick-zk-auth.md)
 - [x402 & Bazaar integration](./x402-bazaar.md)
 - [Composing the stack](./composing-the-stack.md)
+
+## More from Quick AI
+
+- [Music catalog](./music/README.md) — releases, production, custom requests
+- [Consulting](./consulting/README.md) — AI integration, custom solutions, pricing
+- [Company](./company/README.md) — agentic organization, founding, terms
 
 ## Repository layout
 
