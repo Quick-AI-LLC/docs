@@ -16,6 +16,12 @@ Full discography for **Nick Quick**. All releases available on major streaming p
 
 **Total: 7 albums · 97 tracks**
 
+## Album art
+
+![LoRider Fi](assets/lorider-fi-cover.png)
+![Through the Static Curtain](assets/through-static-curtain-cover.png)
+![HexGrid Phonk](assets/hexgrid-phonk-cover.jpg)
+
 ## Keeping this page current
 
 New releases should be added here as they go live. This page is the single source of truth for agents and humans browsing the docs — keeping it updated means every discovery path stays accurate.
