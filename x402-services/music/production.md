@@ -21,8 +21,8 @@ _Studio equipment, DAW, plugins, and hardware chain — details coming as the pr
 
 ## Process
 
-1. Concept and mood mapping
-2. Source material (recorded or generated)
-3. Arrangement and composition
-4. Mixing and sound design
-5. Mastering and distribution
+1. **Conceptual design** — identify the target environment and its accompanying sound. What space is this music filling? A study session, a late-night drive, a retail lobby? The environment dictates the palette.
+2. **Source material** — recorded instrumentation, field recordings, or AI-generated textures shaped into raw elements.
+3. **Arrangement and composition** — structure, dynamics, and movement built around the conceptual intent.
+4. **Mixing and sound design** — sculpting the sonic space with reverb, EQ, and spatial placement.
+5. **Mastering and distribution** — final polish and delivery to streaming platforms.

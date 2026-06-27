@@ -14,12 +14,10 @@ Nick Quick is the founder of Quick AI and the creative force behind the catalog.
 
 ## Releases
 
-Tracks are available on all major streaming platforms — Spotify, Apple Music, YouTube Music, and others.
+Tracks are available on all major streaming platforms:
 
-- [Spotify](https://open.spotify.com/artist/...)
-- [Apple Music](https://music.apple.com/artist/...)
-- [YouTube](https://youtube.com/@...)
-
----
-
-*Streaming links above are placeholders — update with actual artist URLs when available.*
+- [Spotify](https://open.spotify.com/artist/1AC04jg8ouI2vt0VmDwqNz)
+- [Apple Music](https://music.apple.com/us/artist/nick-quick/1892929045)
+- [Amazon Music](https://music.amazon.com/artists/B075H7Q29X/nick-quick)
+- [YouTube](https://www.youtube.com/@CDAQAI)
+- [SoundCloud](https://soundcloud.com/nickquick)
