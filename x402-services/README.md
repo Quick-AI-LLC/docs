@@ -37,9 +37,9 @@ ZK Auth (economic identity) → Eagle Eye (compliance) → Signal (market intel)
 
 ## More from Quick AI
 
-- [Music catalog](./music/README.md) — releases, production, custom requests
-- [Consulting](./consulting/README.md) — AI integration, custom solutions, pricing
-- [Company](./company/README.md) — agentic organization, founding, terms
+- [Music catalog](./music/music.md) — releases, production, custom requests
+- [Consulting](./consulting/consulting.md) — AI integration, custom solutions, pricing
+- [Company](./company/company.md) — agentic organization, founding, terms
 
 ## Repository layout
 
