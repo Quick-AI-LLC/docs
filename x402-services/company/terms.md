@@ -23,11 +23,11 @@ This Master Services Agreement (the **"Agreement"**) is entered into as of the d
 
 ### Recitals
 
-Quick AI provides x402 payment processing, AI integration, enablement, consulting, installation, training, media production, and related services designed to help organizations and autonomous agents transact, integrate intelligence, and operate in agentic economies. Client desires to engage Quick AI for such Services on the terms set forth herein.
+Quick AI provides x402 payment processing, AI integration, enablement, installation, training, media production, and related services designed to help organizations and autonomous agents transact, integrate intelligence, and operate in agentic economies. Client desires to engage Quick AI for such Services on the terms set forth herein.
 
 ### 1. Definitions
 
-- **"Services"** means any offerings provided by Quick AI, including but not limited to x402 payment processing, AI Readiness Audit, Local AI Installations, Organizational Integration, Custom Workflow Automation, AI Tool Optimization + Cost Audit, Prompt Engineering Workshop, Agentic Integrations, Operator Lessons, Pilot Implementation Package, RAG Knowledge Base Setup, music tracks licensed for commercial business use, Consultation Services, and any other preset or custom solutions described in an Order Form, Quote, or Statement of Work.
+- **"Services"** means any offerings provided by Quick AI, including but not limited to x402 payment processing, AI Readiness Audit, Local AI Installations, Organizational Integration, Custom Workflow Automation, AI Tool Optimization + Cost Audit, Prompt Engineering Workshop, Agentic Integrations, Operator Lessons, Pilot Implementation Package, RAG Knowledge Base Setup, music tracks licensed for commercial business use, and any other preset or custom solutions described in an Order Form, Quote, or Statement of Work.
 - **"Order Form"**, **"Quote"**, or **"Statement of Work"** means a document issued by Quick AI describing the Services, fees, and any applicable timelines.
 - **"Client Data"** means any information, documents, or materials provided by Client to Quick AI for the purpose of delivering the Services.
 
@@ -65,7 +65,7 @@ This Agreement is governed by the laws of the State of Idaho.
 
 **Effective Date: June 1, 2026**
 
-Quick AI LLC operates the website quickai.build and provides x402 payment processing, AI integration, enablement, consulting, installation, training, media production, and related services.
+Quick AI LLC operates the website quickai.build and provides x402 payment processing, AI integration, enablement, installation, training, media production, and related services.
 
 ### 1. Information We Collect
 

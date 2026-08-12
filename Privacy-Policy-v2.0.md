@@ -3,7 +3,7 @@
 **Effective Date: June 1, 2026**
 **Last Updated: June 1, 2026**
 
-Quick AI LLC (**"Quick AI," "we," "us,"** or **"our"**) operates the website quickai.build and provides x402 payment processing, AI integration, enablement, consulting, installation, training, media production, and related services (**"Services"**) as described in our Master Services Agreement (**"MSA"**) and any applicable Statement of Work (**"SOW"**). We are committed to protecting your privacy and helping you integrate intelligence responsibly. This Privacy Policy explains our practices regarding the collection, use, storage, and protection of information in connection with our Services and website.
+Quick AI LLC (**"Quick AI," "we," "us,"** or **"our"**) operates the website quickai.build and provides x402 payment processing, AI integration, enablement, installation, training, media production, and related services (**"Services"**) as described in our Master Services Agreement (**"MSA"**) and any applicable Statement of Work (**"SOW"**). We are committed to protecting your privacy and helping you integrate intelligence responsibly. This Privacy Policy explains our practices regarding the collection, use, storage, and protection of information in connection with our Services and website.
 
 ---
 

@@ -1,6 +1,6 @@
 # Quick AI Docs
 
-Quick AI, LLC is an independent studio and agentic organization based in North Idaho. We build x402 services, release music, and provide consulting in AI integration, media production, and custom development.
+Quick AI, LLC is an independent studio and agentic organization based in North Idaho. We build x402 services and release music.
 
 ## Services
 
@@ -39,7 +39,6 @@ ZK Auth (economic identity) → Eagle Eye (compliance) → Signal (market intel)
 ## More from Quick AI
 
 - [Music catalog](./music/overview.md) — releases, production, custom requests
-- [Consulting](./consulting/overview.md) — AI integration, custom solutions, pricing
 - [Company](./company/overview.md) — agentic organization, founding, terms
 
 ## Repository layout

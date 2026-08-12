@@ -29,7 +29,7 @@ Agents simply search the bazaar, auto-pay via x402, and integrate the signals. F
 Everything stays inside your existing tools and security model. We handle the heavy lifting so you focus on running the business.
 
 ## Get Started
-- Schedule a free consultation: https://quickai.build
+- More from Quick AI: [music](./x402-services/music/overview.md), [company](./x402-services/company/overview.md)
 - Email: Nick@quickai.build
 - Call/Text: 208.682.5989
 - Follow real-time updates: @CDAQAI on X

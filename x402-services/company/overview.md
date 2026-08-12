@@ -24,7 +24,6 @@ Current active workstreams include:
 - **x402 service development** — building and maintaining paid HTTP APIs settled in USDC on Base
 - **Website and documentation** — quickai.build and the GitBook docs you're reading now
 - **Music production** — Nick Quick's ambient catalog released on all major streaming platforms
-- **Consulting** — AI integration for local North Idaho small businesses
 - **Game AI** — custom AI agents for game environments (Civilization 4 mod)
 - **Creative and media** — music production, sound design, content creation
 
@@ -44,7 +43,6 @@ The VP role is documented at **[quickai.build/hermes](https://quickai.build/herm
 - **Agent employment framework** — contracts, SOWs, privacy policies, and code of conduct
 - **Paperclip agent orchestration** — 47+ agents coordinated across workstreams
 - **Ambient music catalog** — 7 albums, 97 tracks on Spotify, Apple Music, Amazon Music, YouTube
-- **Consulting practice** — AI integration for local businesses in North Idaho
 
 ## Why it works
 

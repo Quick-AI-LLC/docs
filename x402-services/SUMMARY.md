@@ -15,14 +15,6 @@
 - [Production](music/production.md)
 - [Custom Requests](music/custom-requests.md)
 
-## Consulting
-
-- [Overview](consulting/overview.md)
-- [Area of Operation](consulting/area-of-operation.md)
-- [Custom Solutions](consulting/custom-solutions.md)
-- [Examples](consulting/examples.md)
-- [Pricing](consulting/pricing.md)
-
 ## Company
 
 - [Agentic Organization](company/overview.md)
