@@ -11,6 +11,7 @@ Three paid HTTP APIs on **Base mainnet** (`eip155:8453`), settled in **USDC** vi
 | **Eagle Eye** | https://eagle.quickai.build | U.S. sanctions + USDC blacklist screening |
 | **Quick Signal TA** | https://signal.quickai.build | Crypto technical analysis (10 indicators) |
 | **Quick ZK Auth** | https://zk.quickai.build | Wallet ownership (ZK) + USDC qualification |
+| **InferProof One (IP1)** | https://inferproof.one | Time-bounded on-chain receipt of paid AI inference |
 
 ## Shared stack
 

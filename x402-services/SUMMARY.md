@@ -6,6 +6,7 @@
 - [Quick ZK Auth](quick-zk-auth.md)
 - [Eagle Eye](eagle-eye.md)
 - [Quick Signal TA](quick-signal-ta.md)
+- [InferProof One (IP1)](inferproof-one.md)
 
 ## Music
 
