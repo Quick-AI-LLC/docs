@@ -21,6 +21,7 @@
 - [Founding](company/founding.md)
 - [Links](company/links.md)
 - [Terms](company/terms.md)
+- [Platform Terms v1.0](company/platform-terms.md)
 
 ## Guides
 
