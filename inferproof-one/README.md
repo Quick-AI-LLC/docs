@@ -15,6 +15,7 @@ This folder is the public documentation set for InferProof One. The implementati
 | Document | Description |
 |----------|-------------|
 | [Blue Paper](./blue-paper.md) | Formal conceptual design, philosophy, mechanics, and operational posture |
+| [The InferProof Essay](./essay.md) | Human-written origin story and “why” behind the design |
 | [Mining Rules](./mining-rules.md) | Full product terms users accept (demo, settlement, payments, upgrades, scope) |
 | [Privacy Notice](./privacy-notice.md) | InferProof-specific data practices |
 | [Anomaly Review Policy](./anomaly-review.md) | Integrity monitoring posture and response principles |
