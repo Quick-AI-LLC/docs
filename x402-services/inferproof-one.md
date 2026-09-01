@@ -60,13 +60,6 @@
 00:00 UTC (N+2)   batchMint → recipients' wallets on Base
 ```
 
-## Deployment
-
-- **VPS:** Ionos `[REDACTED IP]` — PM2 processes `[REDACTED]` (oracle [REDACTED PORT]), `[REDACTED]` (identity [REDACTED PORT]), `[REDACTED]` (Discord InferNode), `[REDACTED]` (Next.js :3000)
-- **TLS:** Caddy fronts `https://inferproof.one` → :3000
-- **Build:** web is Next.js standalone; `NEXT_PUBLIC_APP_URL=https://inferproof.one` must be baked at build time
-- **Env:** `[REDACTED PATH]/api/.env` (loaded at runtime via custom loader, no dotenv dep)
-
 ## Docs & source
 
 - Product spec: `InferProof_Consolidated_Overview_v9.docx`
