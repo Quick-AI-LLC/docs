@@ -38,6 +38,7 @@ ZK Auth (economic identity) → Eagle Eye (compliance) → Signal (market intel)
 
 ## More from Quick AI
 
+- [Wick](./wick/overview.md) — on-chain data / charting interface
 - [Music catalog](./music/overview.md) — releases, production, custom requests
 - [Company](./company/overview.md) — agentic organization, founding, terms
 

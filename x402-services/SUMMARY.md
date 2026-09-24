@@ -15,6 +15,10 @@
 - [Production](music/production.md)
 - [Custom Requests](music/custom-requests.md)
 
+## Wick
+
+- [Overview](wick/overview.md)
+
 ## Company
 
 - [Agentic Organization](company/overview.md)
