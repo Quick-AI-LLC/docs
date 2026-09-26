@@ -5,6 +5,7 @@
 **This file:** product outline only. Not live Gitbook pages. Do not add the planned child pages to `SUMMARY.md` until the copy exists — dead sidebar links break the book.
 **Audience split (same as the product roadmap):** end users first (traders / whales / holders). Teams second. Agents / desks third.
 **Date:** 26 Sep 2026. Nick source notes + Grok structure. Hermes custodian.
+**Calls:** signed 26 Sep 2026 (Nick). See §5.
 
 ---
 
@@ -59,7 +60,8 @@ Draft beats:
 - What you get on the site vs what you get in this book (site = the workbench; docs = the rules).
 - Two statuses, said once:
   - **Cataloged** — Wick captured the pool. The series is Wick's. Callable.
-  - **Listed / Integrated** — the team paid the one-time fee. The asset is first-class on the interface (search, cards, rails, share).
+  - **Listed / Integrated** — first-class on the interface (search, cards, rails, share). After the grant cutoff this is the paid List-on-Wick path. Through grant submission, the launch suite is Integrated so there is something real to chart.
+- One line on the core pairs: WETH, cirBTC, EURC, CRCL, NVDA are the always-on LPs the habit is built on.
 - North star, one sentence: holders should prefer Wick to a busy catch-all terminal; listing follows that preference.
 - Links: Delta, Catalog and listing, Using the chart, Discord.
 
@@ -112,7 +114,9 @@ Draft beats:
   Rationale, one sentence for teams: a doubling schedule prices organic teams out by year 4. A linear step keeps year 4 under a panic number and year 5 still in reach.
 - **What the fee is not.** Not a subscription. Not a data-retention fee. Not a promise the asset stays on the *interface* if the pool dies (quality filter, next page).
 - **How to start (v1, concierge).** Point at Discord `#requests` and wick.green/Listings how-to once that leaf copy is honest. Self-serve checkout is a 2027 item — do not document a flow that does not exist.
-- **Genesis / founding set.** Early Arc pools were cataloged because Wick is the indexer of record, not because those teams paid. Paid listing is the path for everyone after.
+- **Launch suite / grant cutoff (Nick, 26 Sep).** Every asset cataloged through the Arc grant submission ships **Integrated** — full interface presence — so Wick launches with a real suite, not an empty rail and a fee wall. Same delist and catalog-purge rules as anyone who pays later. After that cutoff, List on Wick is the path.
+- **Core LPs that do not go away.** WETH, cirBTC, EURC, CRCL, NVDA. Always-on, liquid, the pairs people will actually trade. The habit we want: *I trade WETH and chart on Wick — I'd love to see you guys there, I hold XYZ too.* Those five are levers into project asks, not just logos.
+- **Say this out loud** on Catalog and listing (and once on Overview): founding / pre-grant assets are Integrated because Wick is the indexer of record for a chain that just launched, not because those teams paid. They are not exempt from the quality filter.
 
 Hermes flag: master doc still says `$750 EOY'26 → $3k 2028`. This outline is the correction. Align the master doc when this lands.
 
@@ -128,8 +132,8 @@ Two different actions. Never use one word for both.
 
 - Purpose: Wick users do not have dead or rugged assets thrust in front of them forever.
 - Applies to **Listed / Integrated** assets.
-- Public wording: the listing remains while the pool is alive. If activity collapses and stays collapsed across several weeks, the asset leaves the interface.
-- Internal rule (do **not** print the numbers unless Nick/Hermes explicitly want transparency): `<1% Delta` for **4 consecutive weeks**, sampled **once per week at a random time that day**.
+- Public wording **(locked):** the listing remains while the pool is alive. If activity collapses and stays collapsed across **several weeks**, the asset leaves the interface. Do not publish the fuse.
+- Internal rule (ops only): `<1% Delta` for **4 consecutive weeks**, sampled **once per week at a random time that day**.
 - If a Listed token rugs: evidence stays on the interface for about a month, then the asset is interface-delisted and becomes **data-retrieval only**.
 - Reassurance for teams: this is not "we took your money and we can yeet you on a mood." A living pool stays. A dead pool does not occupy the rail. The fee bought interface presence for a living market.
 
@@ -175,8 +179,15 @@ Draft beats:
 - That engine has been callable by agents on Base via x402 since May 2026. Usage is real, small, and older than Wick.
 - On Wick the output is human-readable and editable (colors, overlays vs panes — site already has the presentation registry). On Signal it is JSON for an agent.
 - Same architecture also sits in the public [AI Technical Readout](https://github.com/Quick-AI-LLC/AI-Technical-Readout) repo.
-- List the v1 set that actually ships on the canvas (do not paste Signal's ten if the chart only mounts a subset). Hermes + ZC confirm the mounted set before this page goes live. Signal's ten, for reference: Bollinger, SMA 20/50/200, EMA 20/50/200, VWMA 20, RSI, MACD, ATR, Stochastic, Fractals, Volume. Wick substitutes **Delta for Volume** on the pane. Overlay vs pane collision rules stay as in v1 requirements (max one extra pane-type).
-- One sentence on derivation: computed from the Wick series (or the Signal OHLCV path on Base), not drawn by hand, not a visual theme.
+- v1 menu, live on wick.green (Nick screenshot, 26 Sep). Header on the control: `ADD INDICATOR (MAX 2 · ONE PANE)`.
+
+  Overlays: SMA 20 · SMA 50 · SMA 200 · EMA 20 · EMA 50 · EMA 200 · Bollinger Bands.
+
+  Panes: RSI (14) · MACD (12, 26, 9) · Stochastic (14, 3, 3) · ATR (14).
+
+- Signal has three that Wick v1 does **not** mount: VWMA (20), Fractals, Volume. Volume is not missing — **Delta is the volume pane.** Document that substitution explicitly so a Signal user is not hunting for a volume toggle.
+- Collision rule already on the control: max two indicators, and only one of them may be a pane. Two RSIs (or RSI + MACD) is a conflict. Overlay + pane is the intended pair (e.g. EMA 20 + RSI).
+- One sentence on derivation: computed from the Wick series, not drawn by hand, not a visual theme. Same math as Signal; different input (Arc pool snapshots vs Signal's CEX OHLCV fallback chain).
 
 Do not fork Signal's endpoint docs into this page. Link them.
 
@@ -202,15 +213,16 @@ This page will rot if it is written ahead of the Q4 permalink drop. Hermes shoul
 
 ### 2.8 `wick/data-access.md`
 
-**Job:** holders and desks know the series exists off-canvas. Do not publish an API that is not live.
+**Job:** point at the site Data surface, say what catalog data *is*, do not invent a machine API.
 
 Draft beats:
 
+- The Data page already exists on wick.green. ZC shipped it with filler/flavor copy. **Nick rebuilds that copy** — Gitbook does not replace the site page. This docs page is the rules around it (what the warehouse is, that it survives an interface delist, that x402 comes later).
 - Catalog data is Wick's and remains callable after interface delist.
-- **Today:** site leaves (`/data/assets`, listings, per-token pages). No public guaranteed machine API yet.
-- **Next:** x402 read API (Security-Manager first), same warehouse, metered. Point at the existing x402 / Bazaar guide for *how* 402 works; do not invent Wick routes.
-- Agents: Signal remains the TA ASO on Base; Wick becomes the Arc series ASO when the door opens. Two products, one lab.
-- Honesty line: scraping the chart is not the interface. Wait for the door.
+- **Today, for humans:** wick.green Data + Listings + per-token pages. Gitbook links those URLs once Nick's copy is live, not before (do not send people into ZC flavor text).
+- **Next, for agents/desks:** x402 read API (Security-Manager first), same warehouse, metered. Point at the existing x402 / Bazaar guide for *how* 402 works; do not invent Wick routes in v1 of this book.
+- Agents: Signal remains the TA ASO on Base; Wick becomes the Arc series ASO when that door opens. Two products, one lab.
+- Honesty line: scraping the chart is not the interface.
 
 ---
 
@@ -233,7 +245,7 @@ Seed questions (answer in one short paragraph each):
 
 ## 3. Copy rules for Hermes
 
-- **Public vs internal.** Interface-delist constants (`<1% Δ`, 4 weeks, random weekday sample) stay in this outline and in ops docs unless Nick decides the public page should show the exact fuse. Default: "several weeks of near-zero activity."
+- **Public vs internal.** Interface-delist constants (`<1% Δ`, 4 weeks, random weekday sample) stay in this outline and in ops docs. Public page: "several weeks of near-zero activity." Locked 26 Sep.
 - **Pricing.** Use the linear table in §2.3. Retire the doubling language everywhere it still lives (`WICK-DEVELOPMENT-MASTER.md` §6).
 - **Do not document vapor.** Permalinks, watchlists, x402 Wick routes, self-serve checkout — roadmap items. "As of [date]" on any page that describes the live canvas.
 - **Discord is the support desk.** `#requests` for card fixes and listing intent. Do not invent a second form.
@@ -253,16 +265,16 @@ Seed questions (answer in one short paragraph each):
 6. Using the chart (write last so it matches the live canvas).
 7. Data access + FAQ.
 
-Nick hammers thesis/price/delist wording with Hermes. Hermes owns Gitbook publish. Grok can draft page bodies off this outline when asked — not before the three locked pages (Delta, Catalog, Delist) are verbally signed.
+Nick hammered the five calls 26 Sep (below). Hermes owns Gitbook publish. Grok can draft page bodies off this outline when asked — Delta, Catalog, and Delist are now signed on substance.
 
 ---
 
-## 5. Open calls for Nick / Hermes
+## 5. Calls — signed 26 Sep 2026 (Nick)
 
-1. Print the exact 4-week / `<1% Δ` fuse on the public delist page, or keep it "several weeks"?
-2. Confirm 2028 = $2,250 and 2029 = $3,000 as the published table.
-3. Confirm which indicators are actually mounted on the v1 canvas vs Signal's full ten.
-4. Genesis assets: say "indexer of record, cataloged without a fee" or stay quiet?
-5. Data-access page: ship as "not yet" or wait until the Q1 door exists and skip the page in v1 of the book?
+1. **Public delist wording** = "several weeks." Fuse stays secret sauce. Do not print `<1% Δ` / 4 weeks / random-time sample.
+2. **Price table stands.** $750 EOY '26 · $1,500 '27 · $2,250 '28 · $3,000 '29 · +$750 each year after.
+3. **v1 indicator menu** is the live `+ indicator` control (screenshot 26 Sep). Overlays: SMA 20/50/200, EMA 20/50/200, Bollinger. Panes: RSI (14), MACD (12, 26, 9), Stochastic (14, 3, 3), ATR (14). Max 2, one pane. Not mounted: VWMA, Fractals, Volume (Delta replaces volume).
+4. **Launch suite is Integrated.** Every asset through the Arc grant submission ships fully Integrated so the terminal launches with a chartable set. Same delist / catalog-purge as later paid listings — no exemption. Say that out loud: indexer-of-record for a chain that just launched, not a free pass. Core always-on LPs — WETH, cirBTC, EURC, CRCL, NVDA — are the habit levers: *I trade WETH and chart on Wick, would love to see you guys there because I hold XYZ too.*
+5. **Data page is on the site.** Nick rebuilds ZC's filler copy. Gitbook `data-access.md` is the policy page and waits to link the site Data URL until that rewrite is live. Do not publish a "there is no data page" story.
 
 _Outline only. Not a Gitbook page._
