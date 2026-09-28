@@ -12,6 +12,13 @@ Quick AI across the web.
 | **GitHub Organization** | [github.com/Quick-AI-LLC](https://github.com/Quick-AI-LLC) |
 | **GitHub Docs Repo** | [github.com/Quick-AI-LLC/docs](https://github.com/Quick-AI-LLC/docs) |
 
+## Apps
+
+| App | Link |
+|-----|------|
+| **Wick** | [wick.green](https://wick.green) — token charts for Arc |
+| **InferProof One (IP1)** | [inferproof.one](https://inferproof.one) — on-chain receipt of AI inference |
+
 ## x402 Services
 
 | Service | Endpoint |
