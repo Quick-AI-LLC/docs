@@ -18,6 +18,14 @@
 ## Wick
 
 - [Overview](wick/overview.md)
+- [Delta](wick/delta.md)
+- [Catalog and listing](wick/catalog-and-listing.md)
+- [Delisting and data retention](wick/delisting.md)
+- [Token cards](wick/token-cards.md)
+- [Indicators](wick/indicators.md)
+- [Using the chart](wick/using-the-chart.md)
+- [Data access](wick/data-access.md)
+- [FAQ](wick/faq.md)
 
 ## Company
 
