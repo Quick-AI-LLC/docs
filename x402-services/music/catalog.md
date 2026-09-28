@@ -13,8 +13,9 @@ Full discography for **Nick Quick**. All releases available on major streaming p
 | 5 | **LoRider Fi** | 2026 | 15 |
 | 6 | **HexGrid Phonk** | 2026 | 10 |
 | 7 | **VGDM: 8-bit** | 2026 | 12 |
+| 8 | **Nokwire** | 2026 | 19 |
 
-**Total: 7 albums · 97 tracks**
+**Total: 8 albums · 116 tracks**
 
 ## Album art
 
