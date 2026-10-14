@@ -17,7 +17,6 @@ Quick AI across the web.
 | App | Link |
 |-----|------|
 | **Wick** | [wick.green](https://wick.green) — token charts for Arc |
-| **InferProof One (IP1)** | [inferproof.one](https://inferproof.one) — on-chain receipt of AI inference |
 
 ## x402 Services
 

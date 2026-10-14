@@ -23,14 +23,12 @@ The full Platform Terms are maintained at the root of this repository:
 
 **→ [Platform-Terms-v1.0.md](https://github.com/Quick-AI-LLC/docs/blob/main/Platform-Terms-v1.0.md)**
 
-These Terms replace the former Master Services Agreement. They govern all access to and use of Quick AI platforms, including InferProof One, x402 Agentic Service Offerings, music, future software deployments, and the Founder series.
+These Terms replace the former Master Services Agreement. They govern all access to and use of Quick AI platforms, including x402 Agentic Service Offerings, music, future software deployments, and the Founder series.
 
 Key points:
 
 - No billable B2B consulting. Informal AI assistance is non-billable and non-contractual.
 - Primary settlement is stablecoin on-chain (USDC on Base) to the formal treasury `0x85557C90027354eAeFFe9Ee4B4f4014818d8D3e1`.
-- InferProof One participation is further governed by the Mining Rules at https://inferproof.one/rules.
-- Once minted, IP1 tokens are under the ordinary control of the holder; secondary building and markets around them are unrestricted.
 - Idaho law, Kootenai County venue, prevailing-party fee shifting.
 
 ---
